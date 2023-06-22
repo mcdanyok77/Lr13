@@ -1,1 +1,1 @@
-exclude src/main/java/com/lr12/app/App.java
+src/main/java/com/lr12/app/App.java
